@@ -1,0 +1,1 @@
+This is the new text file from the second branch on remote repository named rrb1.
